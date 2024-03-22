@@ -1,0 +1,878 @@
+[
+    {
+        "future_name": "AFKS-6.24 (20795\u0440)",
+        "stock": "AFKS (20.05\u0440)",
+        "spred_stock": 3.7157107231920117,
+        "year_dohod": 15.069271266278715
+    },
+    {
+        "future_name": "AFKS-9.24 (21603\u0440)",
+        "stock": "AFKS (20.05\u0440)",
+        "spred_stock": 7.745635910224435,
+        "year_dohod": 15.619652526143197
+    },
+    {
+        "future_name": "AFLT-12.24 (4538\u0440)",
+        "stock": "AFLT (40.33\u0440)",
+        "spred_stock": 12.521696007934535,
+        "year_dohod": 16.803011187118035
+    },
+    {
+        "future_name": "AFLT-6.24 (4211\u0440)",
+        "stock": "AFLT (40.33\u0440)",
+        "spred_stock": 4.413587899826421,
+        "year_dohod": 17.89955092707382
+    },
+    {
+        "future_name": "AFLT-9.24 (4330\u0440)",
+        "stock": "AFLT (40.33\u0440)",
+        "spred_stock": 7.364244978923873,
+        "year_dohod": 14.850549266890681
+    },
+    {
+        "future_name": "ALRS-12.24 (8615\u0440)",
+        "stock": "ALRS (76.57\u0440)",
+        "spred_stock": 12.511427452004709,
+        "year_dohod": 16.789231691109258
+    },
+    {
+        "future_name": "ALRS-6.24 (7964\u0440)",
+        "stock": "ALRS (76.57\u0440)",
+        "spred_stock": 4.00940316050673,
+        "year_dohod": 16.260357262055074
+    },
+    {
+        "future_name": "ALRS-9.24 (8151\u0440)",
+        "stock": "ALRS (76.57\u0440)",
+        "spred_stock": 6.451612903225823,
+        "year_dohod": 13.01015861700235
+    },
+    {
+        "future_name": "ASTR-6.24 (624\u0440)",
+        "stock": "ASTR (596.4\u0440)",
+        "spred_stock": 4.6277665995975825,
+        "year_dohod": 18.768164542812418
+    },
+    {
+        "future_name": "ASTR-9.24 (657\u0440)",
+        "stock": "ASTR (596.4\u0440)",
+        "spred_stock": 10.160965794768618,
+        "year_dohod": 20.490345387240584
+    },
+    {
+        "future_name": "BANE-12.24 (2895\u0440)",
+        "stock": "BANE (3035.5\u0440)",
+        "spred_stock": -4.628562016142313,
+        "year_dohod": -6.211121823132148
+    },
+    {
+        "future_name": "BANE-3.25 (3535\u0440)",
+        "stock": "BANE (3035.5\u0440)",
+        "spred_stock": 16.45527919617855,
+        "year_dohod": 16.5459418914743
+    },
+    {
+        "future_name": "BANE-6.24 (3004\u0440)",
+        "stock": "BANE (3035.5\u0440)",
+        "spred_stock": -1.0377203096689214,
+        "year_dohod": -4.208532366990625
+    },
+    {
+        "future_name": "BANE-9.24 (2832\u0440)",
+        "stock": "BANE (3035.5\u0440)",
+        "spred_stock": -6.704002635480155,
+        "year_dohod": -13.51912133674175
+    },
+    {
+        "future_name": "BELU-12.24 (6308\u0440)",
+        "stock": "BELU (5759.0\u0440)",
+        "spred_stock": 9.532905018232341,
+        "year_dohod": 12.792317395789723
+    },
+    {
+        "future_name": "BELU-3.25 (6000\u0440)",
+        "stock": "BELU (5759.0\u0440)",
+        "spred_stock": 4.184754297621107,
+        "year_dohod": 4.207810795128662
+    },
+    {
+        "future_name": "BELU-6.24 (5865\u0440)",
+        "stock": "BELU (5759.0\u0440)",
+        "spred_stock": 1.840597325924631,
+        "year_dohod": 7.464644710694337
+    },
+    {
+        "future_name": "BELU-9.24 (6101\u0440)",
+        "stock": "BELU (5759.0\u0440)",
+        "spred_stock": 5.938530994964397,
+        "year_dohod": 11.975490680453065
+    },
+    {
+        "future_name": "BSPB-12.24 (2789\u0440)",
+        "stock": "BSPB (305.76\u0440)",
+        "spred_stock": -8.784667713239136,
+        "year_dohod": -11.788248953427518
+    },
+    {
+        "future_name": "BSPB-3.25 (3480\u0440)",
+        "stock": "BSPB (305.76\u0440)",
+        "spred_stock": 13.81475667189953,
+        "year_dohod": 13.89087103372818
+    },
+    {
+        "future_name": "BSPB-6.24 (2978\u0440)",
+        "stock": "BSPB (305.76\u0440)",
+        "spred_stock": -2.6033490319204544,
+        "year_dohod": -10.558026629455176
+    },
+    {
+        "future_name": "BSPB-9.24 (2962\u0440)",
+        "stock": "BSPB (305.76\u0440)",
+        "spred_stock": -3.126635269492406,
+        "year_dohod": -6.305093223009548
+    },
+    {
+        "future_name": "CBOM-12.24 (8949\u0440)",
+        "stock": "CBOM (7.959\u0440)",
+        "spred_stock": 12.438748586505843,
+        "year_dohod": 16.691703066450856
+    },
+    {
+        "future_name": "CBOM-3.25 (9268\u0440)",
+        "stock": "CBOM (7.959\u0440)",
+        "spred_stock": 16.44678979771328,
+        "year_dohod": 16.537405719463766
+    },
+    {
+        "future_name": "CBOM-6.24 (8238\u0440)",
+        "stock": "CBOM (7.959\u0440)",
+        "spred_stock": 3.505465510742556,
+        "year_dohod": 14.216610126900367
+    },
+    {
+        "future_name": "CBOM-9.24 (8252\u0440)",
+        "stock": "CBOM (7.959\u0440)",
+        "spred_stock": 3.681367005905267,
+        "year_dohod": 7.423751144505097
+    },
+    {
+        "future_name": "CHMF-6.24 (169662\u0440)",
+        "stock": "CHMF (1795.8\u0440)",
+        "spred_stock": -5.5228867357166695,
+        "year_dohod": -22.398373983739827
+    },
+    {
+        "future_name": "CHMF-9.24 (169131\u0440)",
+        "stock": "CHMF (1795.8\u0440)",
+        "spred_stock": -5.818576678917475,
+        "year_dohod": -11.733593855275572
+    },
+    {
+        "future_name": "FEES-6.24 (12000\u0440)",
+        "stock": "FEES (0.11552\u0440)",
+        "spred_stock": 3.878116343490312,
+        "year_dohod": 15.727916281932933
+    },
+    {
+        "future_name": "FEES-9.24 (12514\u0440)",
+        "stock": "FEES (0.11552\u0440)",
+        "spred_stock": 8.327562326869797,
+        "year_dohod": 16.793150548660087
+    },
+    {
+        "future_name": "FIVE-6.24 (29460\u0440)",
+        "stock": "FIVE (2835.0\u0440)",
+        "spred_stock": 3.9153439153439162,
+        "year_dohod": 15.87889476778366
+    },
+    {
+        "future_name": "FLOT-12.24 (14355\u0440)",
+        "stock": "FLOT (129.8\u0440)",
+        "spred_stock": 10.593220338983045,
+        "year_dohod": 14.215166999002983
+    },
+    {
+        "future_name": "FLOT-3.25 (15112\u0440)",
+        "stock": "FLOT (129.8\u0440)",
+        "spred_stock": 16.42526964560862,
+        "year_dohod": 16.51576699902795
+    },
+    {
+        "future_name": "FLOT-6.24 (13514\u0440)",
+        "stock": "FLOT (129.8\u0440)",
+        "spred_stock": 4.114021571648685,
+        "year_dohod": 16.68464304057522
+    },
+    {
+        "future_name": "FLOT-9.24 (13601\u0440)",
+        "stock": "FLOT (129.8\u0440)",
+        "spred_stock": 4.784283513097054,
+        "year_dohod": 9.647864542985772
+    },
+    {
+        "future_name": "GAZR-12.24 (17300\u0440)",
+        "stock": "GAZP (158.1\u0440)",
+        "spred_stock": 9.424414927261227,
+        "year_dohod": 12.646733266361572
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 27.73667235818631,
+        "year_dohod": 15.9180588219151
+    },
+    {
+        "future_name": "GAZR-3.25 (18110\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 14.526022892556757,
+        "year_dohod": 14.606056076537785
+    },
+    {
+        "future_name": "GAZR-3.26 (21150\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 33.75071143995447,
+        "year_dohod": 16.944992676180718
+    },
+    {
+        "future_name": "GAZR-6.24 (16317\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 3.1872509960159334,
+        "year_dohod": 12.926073483842398
+    },
+    {
+        "future_name": "GAZR-6.25 (19083\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 20.6791880098653,
+        "year_dohod": 16.625338377975407
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 37.25415797128944,
+        "year_dohod": 16.62318784782475
+    },
+    {
+        "future_name": "GAZR-9.24 (16532\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 4.546891797887809,
+        "year_dohod": 9.169146443254421
+    },
+    {
+        "future_name": "GAZR-9.25 (19963\u0440)",
+        "stock": "GAZP (158.13\u0440)",
+        "spred_stock": 26.244229431480438,
+        "year_dohod": 17.57641053667956
+    },
+    {
+        "future_name": "GMKN-6.24 (15019\u0440)",
+        "stock": "GMKN (14948.0\u0440)",
+        "spred_stock": 0.4749799304254676,
+        "year_dohod": 17.33676746052957
+    },
+    {
+        "future_name": "HYDR-6.24 (7486\u0440)",
+        "stock": "HYDR (0.7283\u0440)",
+        "spred_stock": 2.787312920499807,
+        "year_dohod": 11.304102399804773
+    },
+    {
+        "future_name": "HYDR-9.24 (7491\u0440)",
+        "stock": "HYDR (0.7283\u0440)",
+        "spred_stock": 2.8559659480983157,
+        "year_dohod": 5.759268348375056
+    },
+    {
+        "future_name": "IRAO-6.24 (39328\u0440)",
+        "stock": "IRAO (4.0605\u0440)",
+        "spred_stock": -3.1449328900381768,
+        "year_dohod": -12.754450054043717
+    },
+    {
+        "future_name": "IRAO-9.24 (41066\u0440)",
+        "stock": "IRAO (4.0605\u0440)",
+        "spred_stock": 1.1353281615564592,
+        "year_dohod": 2.289473916950871
+    },
+    {
+        "future_name": "ISKJ-6.24 (1131\u0440)",
+        "stock": "ABIO (108.26\u0440)",
+        "spred_stock": 4.470718640310345,
+        "year_dohod": 18.131247819036396
+    },
+    {
+        "future_name": "ISKJ-9.24 (1186\u0440)",
+        "stock": "ABIO (108.26\u0440)",
+        "spred_stock": 9.551080731572137,
+        "year_dohod": 19.260466668639943
+    },
+    {
+        "future_name": "KMAZ-12.24 (2032\u0440)",
+        "stock": "KMAZ (180.7\u0440)",
+        "spred_stock": 12.45157719977863,
+        "year_dohod": 16.708917933526468
+    },
+    {
+        "future_name": "KMAZ-3.25 (2104\u0440)",
+        "stock": "KMAZ (180.7\u0440)",
+        "spred_stock": 16.4360819037078,
+        "year_dohod": 16.5266388287971
+    },
+    {
+        "future_name": "KMAZ-6.24 (1883\u0440)",
+        "stock": "KMAZ (180.7\u0440)",
+        "spred_stock": 4.20586607636968,
+        "year_dohod": 17.057123531943702
+    },
+    {
+        "future_name": "KMAZ-9.24 (1974\u0440)",
+        "stock": "KMAZ (180.7\u0440)",
+        "spred_stock": 9.241837299391253,
+        "year_dohod": 18.636854222529323
+    },
+    {
+        "future_name": "LKOH-12.24 (76260\u0440)",
+        "stock": "LKOH (7328.0\u0440)",
+        "spred_stock": 4.066593886462888,
+        "year_dohod": 5.457010178525566
+    },
+    {
+        "future_name": "LKOH-3.25 (79201\u0440)",
+        "stock": "LKOH (7328.0\u0440)",
+        "spred_stock": 8.079967248908293,
+        "year_dohod": 8.124484974797594
+    },
+    {
+        "future_name": "LKOH-6.24 (72170\u0440)",
+        "stock": "LKOH (7328.0\u0440)",
+        "spred_stock": -1.5147379912663794,
+        "year_dohod": -6.143104075691428
+    },
+    {
+        "future_name": "LKOH-9.24 (74678\u0440)",
+        "stock": "LKOH (7328.0\u0440)",
+        "spred_stock": 1.9077510917030471,
+        "year_dohod": 3.8471223672464765
+    },
+    {
+        "future_name": "MAGN-6.24 (56351\u0440)",
+        "stock": "MAGN (55.285\u0440)",
+        "spred_stock": 1.9281902866962186,
+        "year_dohod": 7.819882829379109
+    },
+    {
+        "future_name": "MAGN-9.24 (58261\u0440)",
+        "stock": "MAGN (55.285\u0440)",
+        "spred_stock": 5.383015284435189,
+        "year_dohod": 10.855251816678695
+    },
+    {
+        "future_name": "MGNT-12.24 (8099\u0440)",
+        "stock": "MGNT (7484.0\u0440)",
+        "spred_stock": 8.21753073222875,
+        "year_dohod": 11.027201166409904
+    },
+    {
+        "future_name": "MGNT-6.24 (7462\u0440)",
+        "stock": "MGNT (7484.0\u0440)",
+        "spred_stock": -0.2939604489577752,
+        "year_dohod": -1.1921729318843106
+    },
+    {
+        "future_name": "MGNT-9.24 (7601\u0440)",
+        "stock": "MGNT (7484.0\u0440)",
+        "spred_stock": 1.5633351149118013,
+        "year_dohod": 3.152581861562472
+    },
+    {
+        "future_name": "MOEX-6.24 (21094\u0440)",
+        "stock": "MOEX (216.34\u0440)",
+        "spred_stock": -2.496070999352873,
+        "year_dohod": -10.122954608486651
+    },
+    {
+        "future_name": "MOEX-9.24 (21399\u0440)",
+        "stock": "MOEX (216.34\u0440)",
+        "spred_stock": -1.0862531200887537,
+        "year_dohod": -2.1905104355380947
+    },
+    {
+        "future_name": "MTLR-6.24 (29030\u0440)",
+        "stock": "MTLR (282.63\u0440)",
+        "spred_stock": 2.713795421575904,
+        "year_dohod": 11.00594809861339
+    },
+    {
+        "future_name": "MTLR-9.24 (29745\u0440)",
+        "stock": "MTLR (282.63\u0440)",
+        "spred_stock": 5.243604712875483,
+        "year_dohod": 10.574120001102493
+    },
+    {
+        "future_name": "MTSI-12.24 (31251\u0440)",
+        "stock": "MTSS (290.1\u0440)",
+        "spred_stock": 7.724922440537729,
+        "year_dohod": 10.366164304398056
+    },
+    {
+        "future_name": "MTSI-6.24 (30166\u0440)",
+        "stock": "MTSS (290.1\u0440)",
+        "spred_stock": 3.984832816270245,
+        "year_dohod": 16.160710865984882
+    },
+    {
+        "future_name": "MTSI-9.24 (28779\u0440)",
+        "stock": "MTSS (290.1\u0440)",
+        "spred_stock": -0.7962771458117968,
+        "year_dohod": -1.6057522553663306
+    },
+    {
+        "future_name": "MVID-12.24 (2269\u0440)",
+        "stock": "MVID (201.8\u0440)",
+        "spred_stock": 12.438057482656095,
+        "year_dohod": 16.690775666064248
+    },
+    {
+        "future_name": "MVID-3.25 (2350\u0440)",
+        "stock": "MVID (201.8\u0440)",
+        "spred_stock": 16.45193260654112,
+        "year_dohod": 16.54257686332647
+    },
+    {
+        "future_name": "MVID-6.24 (2088\u0440)",
+        "stock": "MVID (201.8\u0440)",
+        "spred_stock": 3.468780971258667,
+        "year_dohod": 14.067833938993484
+    },
+    {
+        "future_name": "MVID-9.24 (2110\u0440)",
+        "stock": "MVID (201.8\u0440)",
+        "spred_stock": 4.558969276511404,
+        "year_dohod": 9.193501579705318
+    },
+    {
+        "future_name": "NLMK-12.24 (23098\u0440)",
+        "stock": "NLMK (217.38\u0440)",
+        "spred_stock": 6.256325328917112,
+        "year_dohod": 8.395436562701272
+    },
+    {
+        "future_name": "NLMK-6.24 (21999\u0440)",
+        "stock": "NLMK (217.38\u0440)",
+        "spred_stock": 1.2006624344465866,
+        "year_dohod": 4.869353206366712
+    },
+    {
+        "future_name": "NLMK-9.24 (21998\u0440)",
+        "stock": "NLMK (217.38\u0440)",
+        "spred_stock": 1.19606219523416,
+        "year_dohod": 2.411948625748444
+    },
+    {
+        "future_name": "NOTK-6.24 (136936\u0440)",
+        "stock": "NVTK (1353.4\u0440)",
+        "spred_stock": 1.1792522535835737,
+        "year_dohod": 4.782523028422271
+    },
+    {
+        "future_name": "NOTK-9.24 (141841\u0440)",
+        "stock": "NVTK (1353.4\u0440)",
+        "spred_stock": 4.803457957736068,
+        "year_dohod": 9.68653124073848
+    },
+    {
+        "future_name": "OZON-6.24 (36011\u0440)",
+        "stock": "OZON (3484.0\u0440)",
+        "spred_stock": 3.3610792192881656,
+        "year_dohod": 13.631043500446449
+    },
+    {
+        "future_name": "PHOR-6.24 (6897\u0440)",
+        "stock": "PHOR (6665.0\u0440)",
+        "spred_stock": 3.480870217554388,
+        "year_dohod": 14.116862548970575
+    },
+    {
+        "future_name": "PHOR-9.24 (7220\u0440)",
+        "stock": "PHOR (6665.0\u0440)",
+        "spred_stock": 8.327081770442613,
+        "year_dohod": 16.792181470782065
+    },
+    {
+        "future_name": "PIKK-6.24 (8487\u0440)",
+        "stock": "PIKK (871.8\u0440)",
+        "spred_stock": -2.649690295939433,
+        "year_dohod": -10.745966200198811
+    },
+    {
+        "future_name": "PIKK-9.24 (8749\u0440)",
+        "stock": "PIKK (871.8\u0440)",
+        "spred_stock": 0.3555861436109309,
+        "year_dohod": 0.7170659802098883
+    },
+    {
+        "future_name": "PLZL-6.24 (119340\u0440)",
+        "stock": "PLZL (11482.0\u0440)",
+        "spred_stock": 3.936596411774951,
+        "year_dohod": 15.965085447753966
+    },
+    {
+        "future_name": "PLZL-9.24 (123140\u0440)",
+        "stock": "PLZL (11482.0\u0440)",
+        "spred_stock": 7.246124368576901,
+        "year_dohod": 14.612350246025242
+    },
+    {
+        "future_name": "POLY-6.24 (3337\u0440)",
+        "stock": "POLY (331.2\u0440)",
+        "spred_stock": 0.754830917874405,
+        "year_dohod": 3.061258722490643
+    },
+    {
+        "future_name": "POLY-9.24 (3588\u0440)",
+        "stock": "POLY (331.2\u0440)",
+        "spred_stock": 8.333333333333325,
+        "year_dohod": 16.804788213627976
+    },
+    {
+        "future_name": "POSI-6.24 (2709\u0440)",
+        "stock": "POSI (2657.2\u0440)",
+        "spred_stock": 1.949420442571137,
+        "year_dohod": 7.9059829059829445
+    },
+    {
+        "future_name": "POSI-9.24 (2876\u0440)",
+        "stock": "POSI (2657.2\u0440)",
+        "spred_stock": 8.234231521902768,
+        "year_dohod": 16.604942019306684
+    },
+    {
+        "future_name": "ROSN-12.24 (62109\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 11.516294101804458,
+        "year_dohod": 15.453850541024364
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 20.477601220935426,
+        "year_dohod": 11.752082461700363
+    },
+    {
+        "future_name": "ROSN-3.25 (62322\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 11.898734177215164,
+        "year_dohod": 11.964291941276954
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 17.278032139330257,
+        "year_dohod": 8.674665379443665
+    },
+    {
+        "future_name": "ROSN-6.24 (57996\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 4.131430110422829,
+        "year_dohod": 16.755244336714807
+    },
+    {
+        "future_name": "ROSN-6.25 (61477\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 10.381542328754811,
+        "year_dohod": 8.346394162985696
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 23.9069934464494,
+        "year_dohod": 10.667545975493924
+    },
+    {
+        "future_name": "ROSN-9.24 (58199\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 4.495915252715665,
+        "year_dohod": 9.066348437796783
+    },
+    {
+        "future_name": "ROSN-9.25 (66010\u0440)",
+        "stock": "ROSN (556.95\u0440)",
+        "spred_stock": 18.520513511087167,
+        "year_dohod": 12.403646663388653
+    },
+    {
+        "future_name": "RTKM-6.24 (9441\u0440)",
+        "stock": "RTKM (94.2\u0440)",
+        "spred_stock": 0.22292993630572688,
+        "year_dohod": 0.9041047416843367
+    },
+    {
+        "future_name": "RTKM-9.24 (9430\u0440)",
+        "stock": "RTKM (94.2\u0440)",
+        "spred_stock": 0.10615711252655036,
+        "year_dohod": 0.21407373520547449
+    },
+    {
+        "future_name": "RUAL-6.24 (3548\u0440)",
+        "stock": "RUAL (34.08\u0440)",
+        "spred_stock": 4.107981220657275,
+        "year_dohod": 16.660146061554507
+    },
+    {
+        "future_name": "RUAL-9.24 (3693\u0440)",
+        "stock": "RUAL (34.08\u0440)",
+        "spred_stock": 8.362676056338024,
+        "year_dohod": 16.86396000311259
+    },
+    {
+        "future_name": "SBPR-6.24 (30736\u0440)",
+        "stock": "SBERP (296.64\u0440)",
+        "spred_stock": 3.613807982740025,
+        "year_dohod": 14.655999041112324
+    },
+    {
+        "future_name": "SBPR-9.24 (29507\u0440)",
+        "stock": "SBERP (296.64\u0440)",
+        "spred_stock": -0.52926105717368,
+        "year_dohod": -1.0672943970629458
+    },
+    {
+        "future_name": "SBRF-12.24 (31032\u0440)",
+        "stock": "SBER (296.17\u0440)",
+        "spred_stock": 4.777661478205086,
+        "year_dohod": 6.411200145385501
+    },
+    {
+        "future_name": "SBRF-3.25 (32672\u0440)",
+        "stock": "SBER (296.17\u0440)",
+        "spred_stock": 10.315021778032897,
+        "year_dohod": 10.371853853944923
+    },
+    {
+        "future_name": "SBRF-6.24 (30805\u0440)",
+        "stock": "SBER (296.17\u0440)",
+        "spred_stock": 4.011209778167935,
+        "year_dohod": 16.267684100347736
+    },
+    {
+        "future_name": "SBRF-9.24 (29510\u0440)",
+        "stock": "SBER (296.17\u0440)",
+        "spred_stock": -0.3612789951716877,
+        "year_dohod": -0.7285460399871051
+    },
+    {
+        "future_name": "SGZH-12.24 (3881\u0440)",
+        "stock": "SGZH (3.832\u0440)",
+        "spred_stock": 1.278705636743216,
+        "year_dohod": 1.715910137541448
+    },
+    {
+        "future_name": "SGZH-3.25 (4462\u0440)",
+        "stock": "SGZH (3.832\u0440)",
+        "spred_stock": 16.440501043841337,
+        "year_dohod": 16.53108231681016
+    },
+    {
+        "future_name": "SGZH-6.24 (3816\u0440)",
+        "stock": "SGZH (3.832\u0440)",
+        "spred_stock": -0.41753653444676075,
+        "year_dohod": -1.6933426119229742
+    },
+    {
+        "future_name": "SGZH-9.24 (3867\u0440)",
+        "stock": "SGZH (3.832\u0440)",
+        "spred_stock": 0.9133611691023003,
+        "year_dohod": 1.8418609211178985
+    },
+    {
+        "future_name": "SIBN-6.24 (7731\u0440)",
+        "stock": "SIBN (742.9\u0440)",
+        "spred_stock": 4.065150087494951,
+        "year_dohod": 16.4864420215073
+    },
+    {
+        "future_name": "SIBN-9.24 (8059\u0440)",
+        "stock": "SIBN (742.9\u0440)",
+        "spred_stock": 8.480279983847083,
+        "year_dohod": 17.10111709449826
+    },
+    {
+        "future_name": "SMLT-6.24 (3649\u0440)",
+        "stock": "SMLT (3494.0\u0440)",
+        "spred_stock": 4.4361763022324086,
+        "year_dohod": 17.991159447942547
+    },
+    {
+        "future_name": "SMLT-9.24 (3807\u0440)",
+        "stock": "SMLT (3494.0\u0440)",
+        "spred_stock": 8.95821408128219,
+        "year_dohod": 18.06490684899447
+    },
+    {
+        "future_name": "SNGP-6.24 (63750\u0440)",
+        "stock": "SNGSP (62.695\u0440)",
+        "spred_stock": 1.682749820559848,
+        "year_dohod": 6.824485383381606
+    },
+    {
+        "future_name": "SNGP-9.24 (58699\u0440)",
+        "stock": "SNGSP (62.695\u0440)",
+        "spred_stock": -6.373714012281684,
+        "year_dohod": -12.853069693275218
+    },
+    {
+        "future_name": "SNGR-6.24 (29860\u0440)",
+        "stock": "SNGS (28.66\u0440)",
+        "spred_stock": 4.187020237264472,
+        "year_dohod": 16.98069318446147
+    },
+    {
+        "future_name": "SNGR-9.24 (30500\u0440)",
+        "stock": "SNGS (28.66\u0440)",
+        "spred_stock": 6.420097697138871,
+        "year_dohod": 12.946605853346343
+    },
+    {
+        "future_name": "SOFL-6.24 (1652\u0440)",
+        "stock": "SOFL (158.34\u0440)",
+        "spred_stock": 4.332449160035368,
+        "year_dohod": 17.570488260143435
+    },
+    {
+        "future_name": "SOFL-9.24 (1786\u0440)",
+        "stock": "SOFL (158.34\u0440)",
+        "spred_stock": 12.7952507262852,
+        "year_dohod": 25.802577431459106
+    },
+    {
+        "future_name": "SPBE-6.24 (830\u0440)",
+        "stock": "SPBE (89.0\u0440)",
+        "spred_stock": -6.741573033707871,
+        "year_dohod": -27.340823970037473
+    },
+    {
+        "future_name": "SPBE-9.24 (963\u0440)",
+        "stock": "SPBE (89.0\u0440)",
+        "spred_stock": 8.202247191011235,
+        "year_dohod": 16.54044323049227
+    },
+    {
+        "future_name": "SVCB-6.24 (1964\u0440)",
+        "stock": "SVCB (18.99\u0440)",
+        "spred_stock": 3.422854133754627,
+        "year_dohod": 13.881575098004877
+    },
+    {
+        "future_name": "SVCB-9.24 (2070\u0440)",
+        "stock": "SVCB (18.99\u0440)",
+        "spred_stock": 9.004739336492907,
+        "year_dohod": 18.158728496242603
+    },
+    {
+        "future_name": "TATN-12.24 (78000\u0440)",
+        "stock": "TATN (700.2\u0440)",
+        "spred_stock": 11.396743787489294,
+        "year_dohod": 15.29342456777056
+    },
+    {
+        "future_name": "TATN-6.24 (72729\u0440)",
+        "stock": "TATN (700.2\u0440)",
+        "spred_stock": 3.8688946015424275,
+        "year_dohod": 15.690516995144291
+    },
+    {
+        "future_name": "TATN-9.24 (73887\u0440)",
+        "stock": "TATN (700.2\u0440)",
+        "spred_stock": 5.522707797772064,
+        "year_dohod": 11.136952188877366
+    },
+    {
+        "future_name": "TCSI-6.24 (31904\u0440)",
+        "stock": "TCSG (3068.0\u0440)",
+        "spred_stock": 3.9895697522816187,
+        "year_dohod": 16.17992177314212
+    },
+    {
+        "future_name": "TCSI-9.24 (33657\u0440)",
+        "stock": "TCSG (3068.0\u0440)",
+        "spred_stock": 9.703389830508469,
+        "year_dohod": 19.567609326715974
+    },
+    {
+        "future_name": "TRNF-6.24 (1689\u0440)",
+        "stock": "TRNFP (1622.0\u0440)",
+        "spred_stock": 4.13070283600494,
+        "year_dohod": 16.752294834908927
+    },
+    {
+        "future_name": "TRNF-9.24 (1646\u0440)",
+        "stock": "TRNFP (1622.0\u0440)",
+        "spred_stock": 1.479654747225645,
+        "year_dohod": 2.9838341587699473
+    },
+    {
+        "future_name": "VKCO-12.24 (7509\u0440)",
+        "stock": "VKCO (611.8\u0440)",
+        "spred_stock": 22.73618829682902,
+        "year_dohod": 30.509958560083064
+    },
+    {
+        "future_name": "VKCO-3.25 (7131\u0440)",
+        "stock": "VKCO (611.8\u0440)",
+        "spred_stock": 16.557698594311866,
+        "year_dohod": 16.648925583812208
+    },
+    {
+        "future_name": "VKCO-6.24 (6436\u0440)",
+        "stock": "VKCO (611.8\u0440)",
+        "spred_stock": 5.19777705132396,
+        "year_dohod": 21.07987359703606
+    },
+    {
+        "future_name": "VKCO-9.24 (6690\u0440)",
+        "stock": "VKCO (611.8\u0440)",
+        "spred_stock": 9.349460608041849,
+        "year_dohod": 18.853884651576102
+    },
+    {
+        "future_name": "VTBR-6.24 (2338\u0440)",
+        "stock": "VTBR (0.02241\u0440)",
+        "spred_stock": 4.328424810352516,
+        "year_dohod": 17.554167286429646
+    },
+    {
+        "future_name": "VTBR-9.24 (2434\u0440)",
+        "stock": "VTBR (0.02241\u0440)",
+        "spred_stock": 8.612226684515845,
+        "year_dohod": 17.36719745772532
+    },
+    {
+        "future_name": "WUSH-12.24 (3492\u0440)",
+        "stock": "WUSH (324.4\u0440)",
+        "spred_stock": 7.644882860665847,
+        "year_dohod": 10.258758250525862
+    },
+    {
+        "future_name": "WUSH-3.25 (3777\u0440)",
+        "stock": "WUSH (324.4\u0440)",
+        "spred_stock": 16.430332922318126,
+        "year_dohod": 16.520858172578833
+    },
+    {
+        "future_name": "WUSH-6.24 (3244\u0440)",
+        "stock": "WUSH (324.61\u0440)",
+        "spred_stock": -0.06469301623487356,
+        "year_dohod": -0.26236612139698723
+    },
+    {
+        "future_name": "WUSH-9.24 (3290\u0440)",
+        "stock": "WUSH (324.61\u0440)",
+        "spred_stock": 1.352392101290767,
+        "year_dohod": 2.7271995412769607
+    },
+    {
+        "future_name": "YNDF-6.24 (39921\u0440)",
+        "stock": "YNDX (3918.8\u0440)",
+        "spred_stock": 1.8704705522098575,
+        "year_dohod": 7.585797239517755
+    }
+]

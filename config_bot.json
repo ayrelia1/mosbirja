@@ -1,0 +1,11 @@
+{
+    "bot_token": "XXX",
+    "time_pars": 800,
+
+    
+    "db_host": "localhost", 
+    "db_log": "XXX",
+    "db_pass": "XXX",
+    "db_port": 5432,
+    "db_name": "XXX"
+}

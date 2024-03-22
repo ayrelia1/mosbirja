@@ -1,0 +1,1148 @@
+[
+    {
+        "future_name": "AFKS-9.24 (21584\u0440)",
+        "future2_name": "AFKS-6.24 (20785\u0440)",
+        "spred_futures": 3.8441183545826263,
+        "year_dohod": 15.418716477172074
+    },
+    {
+        "future_name": "AFLT-12.24 (4535\u0440)",
+        "future2_name": "AFLT-6.24 (4210\u0440)",
+        "spred_futures": 7.719714964370539,
+        "year_dohod": 15.481845945028828
+    },
+    {
+        "future_name": "AFLT-12.24 (4535\u0440)",
+        "future2_name": "AFLT-9.24 (4330\u0440)",
+        "spred_futures": 4.734411085450341,
+        "year_dohod": 18.98967083724587
+    },
+    {
+        "future_name": "AFLT-9.24 (4330\u0440)",
+        "future2_name": "AFLT-6.24 (4210\u0440)",
+        "spred_futures": 2.8503562945368266,
+        "year_dohod": 11.432747774790569
+    },
+    {
+        "future_name": "ALRS-12.24 (8610\u0440)",
+        "future2_name": "ALRS-6.24 (7962\u0440)",
+        "spred_futures": 8.138658628485306,
+        "year_dohod": 16.322035161522727
+    },
+    {
+        "future_name": "ALRS-12.24 (8610\u0440)",
+        "future2_name": "ALRS-9.24 (8151\u0440)",
+        "spred_futures": 5.631210894368799,
+        "year_dohod": 22.58672501587485
+    },
+    {
+        "future_name": "ALRS-9.24 (8151\u0440)",
+        "future2_name": "ALRS-6.24 (7962\u0440)",
+        "spred_futures": 2.3737754333082117,
+        "year_dohod": 9.521187177554914
+    },
+    {
+        "future_name": "ASTR-9.24 (655\u0440)",
+        "future2_name": "ASTR-6.24 (624\u0440)",
+        "spred_futures": 4.9679487179487225,
+        "year_dohod": 19.926387714849273
+    },
+    {
+        "future_name": "BANE-3.25 (3535\u0440)",
+        "future2_name": "BANE-12.24 (2895\u0440)",
+        "spred_futures": 22.10708117443869,
+        "year_dohod": 88.67125965571562
+    },
+    {
+        "future_name": "BANE-12.24 (2895\u0440)",
+        "future2_name": "BANE-6.24 (3004\u0440)",
+        "spred_futures": -3.6284953395472663,
+        "year_dohod": -7.276927466674462
+    },
+    {
+        "future_name": "BANE-12.24 (2895\u0440)",
+        "future2_name": "BANE-9.24 (2832\u0440)",
+        "spred_futures": 2.2245762711864403,
+        "year_dohod": 8.922750977835722
+    },
+    {
+        "future_name": "BANE-3.25 (3535\u0440)",
+        "future2_name": "BANE-6.24 (3004\u0440)",
+        "spred_futures": 17.67643142476698,
+        "year_dohod": 23.633324066080398
+    },
+    {
+        "future_name": "BANE-3.25 (3535\u0440)",
+        "future2_name": "BANE-9.24 (2832\u0440)",
+        "spred_futures": 24.823446327683605,
+        "year_dohod": 49.78328521760724
+    },
+    {
+        "future_name": "BANE-9.24 (2832\u0440)",
+        "future2_name": "BANE-6.24 (3004\u0440)",
+        "spred_futures": -5.725699067909451,
+        "year_dohod": -22.965716041614833
+    },
+    {
+        "future_name": "BELU-3.25 (6000\u0440)",
+        "future2_name": "BELU-12.24 (6308\u0440)",
+        "spred_futures": -4.8826886493341775,
+        "year_dohod": -19.584410516560162
+    },
+    {
+        "future_name": "BELU-12.24 (6308\u0440)",
+        "future2_name": "BELU-6.24 (5865\u0440)",
+        "spred_futures": 7.5532821824382035,
+        "year_dohod": 15.148065915329363
+    },
+    {
+        "future_name": "BELU-12.24 (6308\u0440)",
+        "future2_name": "BELU-9.24 (6101\u0440)",
+        "spred_futures": 3.3928864120635893,
+        "year_dohod": 13.608830114320991
+    },
+    {
+        "future_name": "BELU-3.25 (6000\u0440)",
+        "future2_name": "BELU-6.24 (5865\u0440)",
+        "spred_futures": 2.3017902813299296,
+        "year_dohod": 3.077485174671884
+    },
+    {
+        "future_name": "BELU-3.25 (6000\u0440)",
+        "future2_name": "BELU-9.24 (6101\u0440)",
+        "spred_futures": -1.6554663169972117,
+        "year_dohod": -3.3200286027691335
+    },
+    {
+        "future_name": "BELU-9.24 (6101\u0440)",
+        "future2_name": "BELU-6.24 (5865\u0440)",
+        "spred_futures": 4.0238704177323115,
+        "year_dohod": 16.13970002716806
+    },
+    {
+        "future_name": "BSPB-3.25 (3480\u0440)",
+        "future2_name": "BSPB-12.24 (2789\u0440)",
+        "spred_futures": 24.77590534241663,
+        "year_dohod": 99.37588406573703
+    },
+    {
+        "future_name": "BSPB-12.24 (2789\u0440)",
+        "future2_name": "BSPB-6.24 (2978\u0440)",
+        "spred_futures": -6.346541302887843,
+        "year_dohod": -12.72795371183551
+    },
+    {
+        "future_name": "BSPB-12.24 (2789\u0440)",
+        "future2_name": "BSPB-9.24 (2962\u0440)",
+        "spred_futures": -5.840648210668464,
+        "year_dohod": -23.426775790043838
+    },
+    {
+        "future_name": "BSPB-3.25 (3480\u0440)",
+        "future2_name": "BSPB-6.24 (2978\u0440)",
+        "spred_futures": 16.856950973807926,
+        "year_dohod": 22.53768170490803
+    },
+    {
+        "future_name": "BSPB-3.25 (3480\u0440)",
+        "future2_name": "BSPB-9.24 (2962\u0440)",
+        "spred_futures": 17.488183659689405,
+        "year_dohod": 35.07245624058589
+    },
+    {
+        "future_name": "BSPB-9.24 (2962\u0440)",
+        "future2_name": "BSPB-6.24 (2978\u0440)",
+        "spred_futures": -0.5372733378106065,
+        "year_dohod": -2.1549974538557293
+    },
+    {
+        "future_name": "CBOM-3.25 (9268\u0440)",
+        "future2_name": "CBOM-12.24 (8949\u0440)",
+        "spred_futures": 3.564644094312208,
+        "year_dohod": 14.297748290373143
+    },
+    {
+        "future_name": "CBOM-12.24 (8949\u0440)",
+        "future2_name": "CBOM-6.24 (8238\u0440)",
+        "spred_futures": 8.630735615440631,
+        "year_dohod": 17.308892855141927
+    },
+    {
+        "future_name": "CBOM-12.24 (8949\u0440)",
+        "future2_name": "CBOM-9.24 (8252\u0440)",
+        "spred_futures": 8.446437227338821,
+        "year_dohod": 33.8785669008645
+    },
+    {
+        "future_name": "CBOM-3.25 (9268\u0440)",
+        "future2_name": "CBOM-6.24 (8238\u0440)",
+        "spred_futures": 12.503034717164363,
+        "year_dohod": 16.716511618186786
+    },
+    {
+        "future_name": "CBOM-3.25 (9268\u0440)",
+        "future2_name": "CBOM-9.24 (8252\u0440)",
+        "spred_futures": 12.312166747455166,
+        "year_dohod": 24.691982762753494
+    },
+    {
+        "future_name": "CBOM-9.24 (8252\u0440)",
+        "future2_name": "CBOM-6.24 (8238\u0440)",
+        "spred_futures": 0.16994416120417188,
+        "year_dohod": 0.6816441630716784
+    },
+    {
+        "future_name": "CHMF-9.24 (169131\u0440)",
+        "future2_name": "CHMF-6.24 (169662\u0440)",
+        "spred_futures": -0.31297520953424973,
+        "year_dohod": -1.2553401261538588
+    },
+    {
+        "future_name": "FEES-9.24 (12511\u0440)",
+        "future2_name": "FEES-6.24 (12000\u0440)",
+        "spred_futures": 4.258333333333342,
+        "year_dohod": 17.08012820512824
+    },
+    {
+        "future_name": "FLOT-3.25 (15114\u0440)",
+        "future2_name": "FLOT-12.24 (14355\u0440)",
+        "spred_futures": 5.287356321839076,
+        "year_dohod": 21.20752810407981
+    },
+    {
+        "future_name": "FLOT-12.24 (14355\u0440)",
+        "future2_name": "FLOT-6.24 (13514\u0440)",
+        "spred_futures": 6.22317596566524,
+        "year_dohod": 12.480545205867102
+    },
+    {
+        "future_name": "FLOT-12.24 (14355\u0440)",
+        "future2_name": "FLOT-9.24 (13601\u0440)",
+        "spred_futures": 5.543710021321968,
+        "year_dohod": 22.23575997563207
+    },
+    {
+        "future_name": "FLOT-3.25 (15114\u0440)",
+        "future2_name": "FLOT-6.24 (13514\u0440)",
+        "spred_futures": 11.839573775344082,
+        "year_dohod": 15.82946676923293
+    },
+    {
+        "future_name": "FLOT-3.25 (15114\u0440)",
+        "future2_name": "FLOT-9.24 (13601\u0440)",
+        "spred_futures": 11.124182045437836,
+        "year_dohod": 22.30948597024621
+    },
+    {
+        "future_name": "FLOT-9.24 (13601\u0440)",
+        "future2_name": "FLOT-6.24 (13514\u0440)",
+        "spred_futures": 0.6437768240343367,
+        "year_dohod": 2.5821817667311304
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "future2_name": "GAZR-12.24 (17300\u0440)",
+        "spred_futures": 16.757225433526003,
+        "year_dohod": 16.80326176713459
+    },
+    {
+        "future_name": "GAZR-3.25 (18110\u0440)",
+        "future2_name": "GAZR-12.24 (17300\u0440)",
+        "spred_futures": 4.682080924855492,
+        "year_dohod": 18.779775138156644
+    },
+    {
+        "future_name": "GAZR-3.26 (21160\u0440)",
+        "future2_name": "GAZR-12.24 (17300\u0440)",
+        "spred_futures": 22.312138728323696,
+        "year_dohod": 17.898748650193735
+    },
+    {
+        "future_name": "GAZR-12.24 (17300\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 6.017894349797759,
+        "year_dohod": 12.068854053165836
+    },
+    {
+        "future_name": "GAZR-6.25 (19083\u0440)",
+        "future2_name": "GAZR-12.24 (17300\u0440)",
+        "spred_futures": 10.30635838150289,
+        "year_dohod": 20.66934510576129
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-12.24 (17300\u0440)",
+        "spred_futures": 25.456647398843923,
+        "year_dohod": 17.01772216223083
+    },
+    {
+        "future_name": "GAZR-12.24 (17300\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 4.645535930316957,
+        "year_dohod": 18.63319356665593
+    },
+    {
+        "future_name": "GAZR-9.25 (19963\u0440)",
+        "future2_name": "GAZR-12.24 (17300\u0440)",
+        "spred_futures": 15.393063583815024,
+        "year_dohod": 20.580469626712397
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "future2_name": "GAZR-3.25 (18110\u0440)",
+        "spred_futures": 11.535063500828269,
+        "year_dohod": 15.422337647627538
+    },
+    {
+        "future_name": "GAZR-3.26 (21160\u0440)",
+        "future2_name": "GAZR-12.25 (20199\u0440)",
+        "spred_futures": 4.757661270359925,
+        "year_dohod": 19.08292707342168
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 23.783551905870826,
+        "year_dohod": 15.899260889455771
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "future2_name": "GAZR-6.25 (19083\u0440)",
+        "spred_futures": 5.848137085363936,
+        "year_dohod": 11.728406792076024
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-12.25 (20199\u0440)",
+        "spred_futures": 7.450863904153682,
+        "year_dohod": 14.94266662096755
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 22.18122429228164,
+        "year_dohod": 17.793729377324834
+    },
+    {
+        "future_name": "GAZR-12.25 (20199\u0440)",
+        "future2_name": "GAZR-9.25 (19963\u0440)",
+        "spred_futures": 1.1821870460351658,
+        "year_dohod": 4.74173925058061
+    },
+    {
+        "future_name": "GAZR-3.26 (21161\u0440)",
+        "future2_name": "GAZR-3.25 (18110\u0440)",
+        "spred_futures": 16.84704583103258,
+        "year_dohod": 16.893328923974977
+    },
+    {
+        "future_name": "GAZR-3.25 (18110\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 10.981737958083105,
+        "year_dohod": 14.682543423810744
+    },
+    {
+        "future_name": "GAZR-6.25 (19083\u0440)",
+        "future2_name": "GAZR-3.25 (18110\u0440)",
+        "spred_futures": 5.372722252898954,
+        "year_dohod": 21.549929915473825
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-3.25 (18110\u0440)",
+        "spred_futures": 19.845389287686356,
+        "year_dohod": 15.919927670341803
+    },
+    {
+        "future_name": "GAZR-3.25 (18110\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 9.54512460682313,
+        "year_dohod": 19.14269495324419
+    },
+    {
+        "future_name": "GAZR-9.25 (19963\u0440)",
+        "future2_name": "GAZR-3.25 (18110\u0440)",
+        "spred_futures": 10.231916068470447,
+        "year_dohod": 20.520051455998424
+    },
+    {
+        "future_name": "GAZR-3.26 (21161\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 29.67888221595785,
+        "year_dohod": 17.005952918092017
+    },
+    {
+        "future_name": "GAZR-3.26 (21161\u0440)",
+        "future2_name": "GAZR-6.25 (19083\u0440)",
+        "spred_futures": 10.889273175077285,
+        "year_dohod": 14.558918347630803
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-3.26 (21161\u0440)",
+        "spred_futures": 2.566041302395927,
+        "year_dohod": 10.292363465653994
+    },
+    {
+        "future_name": "GAZR-3.26 (21161\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 28.000241954996376,
+        "year_dohod": 18.718110464420654
+    },
+    {
+        "future_name": "GAZR-3.26 (21161\u0440)",
+        "future2_name": "GAZR-9.25 (19963\u0440)",
+        "spred_futures": 6.001102038771733,
+        "year_dohod": 12.035177165668586
+    },
+    {
+        "future_name": "GAZR-6.25 (19083\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 16.94447849001104,
+        "year_dohod": 16.991029255093487
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 33.006495894104674,
+        "year_dohod": 16.548586540313472
+    },
+    {
+        "future_name": "GAZR-9.24 (16532\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 1.311435224905022,
+        "year_dohod": 5.260152275717946
+    },
+    {
+        "future_name": "GAZR-9.25 (19963\u0440)",
+        "future2_name": "GAZR-6.24 (16318\u0440)",
+        "spred_futures": 22.337296237283976,
+        "year_dohod": 17.918929948590442
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-6.25 (19083\u0440)",
+        "spred_futures": 13.734737724676416,
+        "year_dohod": 13.772470520623328
+    },
+    {
+        "future_name": "GAZR-6.25 (19083\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 15.43067989353981,
+        "year_dohod": 20.630762495025753
+    },
+    {
+        "future_name": "GAZR-9.25 (19963\u0440)",
+        "future2_name": "GAZR-6.25 (19083\u0440)",
+        "spred_futures": 4.611434260860459,
+        "year_dohod": 18.49641214520953
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 31.284781030728293,
+        "year_dohod": 17.926130417921236
+    },
+    {
+        "future_name": "GAZR-6.26 (21704\u0440)",
+        "future2_name": "GAZR-9.25 (19963\u0440)",
+        "spred_futures": 8.72113409808144,
+        "year_dohod": 11.660124343588738
+    },
+    {
+        "future_name": "GAZR-9.25 (19963\u0440)",
+        "future2_name": "GAZR-9.24 (16532\u0440)",
+        "spred_futures": 20.753689813694653,
+        "year_dohod": 20.810705445050957
+    },
+    {
+        "future_name": "HYDR-9.24 (7491\u0440)",
+        "future2_name": "HYDR-6.24 (7486\u0440)",
+        "spred_futures": 0.06679134384184326,
+        "year_dohod": 0.2678993461788219
+    },
+    {
+        "future_name": "IRAO-9.24 (41066\u0440)",
+        "future2_name": "IRAO-6.24 (39328\u0440)",
+        "spred_futures": 4.419243287225383,
+        "year_dohod": 17.725536261947965
+    },
+    {
+        "future_name": "ISKJ-9.24 (1185\u0440)",
+        "future2_name": "ISKJ-6.24 (1130\u0440)",
+        "spred_futures": 4.867256637168138,
+        "year_dohod": 19.52251288534473
+    },
+    {
+        "future_name": "KMAZ-3.25 (2102\u0440)",
+        "future2_name": "KMAZ-12.24 (2030\u0440)",
+        "spred_futures": 3.5467980295566415,
+        "year_dohod": 14.226167920749166
+    },
+    {
+        "future_name": "KMAZ-12.24 (2030\u0440)",
+        "future2_name": "KMAZ-6.24 (1883\u0440)",
+        "spred_futures": 7.806691449814118,
+        "year_dohod": 15.65627680869315
+    },
+    {
+        "future_name": "KMAZ-12.24 (2030\u0440)",
+        "future2_name": "KMAZ-9.24 (1974\u0440)",
+        "spred_futures": 2.8368794326241176,
+        "year_dohod": 11.378692229756075
+    },
+    {
+        "future_name": "KMAZ-3.25 (2102\u0440)",
+        "future2_name": "KMAZ-6.24 (1883\u0440)",
+        "spred_futures": 11.630377057886342,
+        "year_dohod": 15.549771524280274
+    },
+    {
+        "future_name": "KMAZ-3.25 (2102\u0440)",
+        "future2_name": "KMAZ-9.24 (1974\u0440)",
+        "spred_futures": 6.484295845997967,
+        "year_dohod": 13.00421969114977
+    },
+    {
+        "future_name": "KMAZ-9.24 (1974\u0440)",
+        "future2_name": "KMAZ-6.24 (1883\u0440)",
+        "spred_futures": 4.832713754646845,
+        "year_dohod": 19.383961763143937
+    },
+    {
+        "future_name": "LKOH-3.25 (79201\u0440)",
+        "future2_name": "LKOH-12.24 (74711\u0440)",
+        "spred_futures": 6.00982452383183,
+        "year_dohod": 24.105340123061737
+    },
+    {
+        "future_name": "LKOH-12.24 (74711\u0440)",
+        "future2_name": "LKOH-6.24 (72129\u0440)",
+        "spred_futures": 3.579697486447886,
+        "year_dohod": 7.179063640403727
+    },
+    {
+        "future_name": "LKOH-12.24 (74711\u0440)",
+        "future2_name": "LKOH-9.24 (74653\u0440)",
+        "spred_futures": 0.07769279198424073,
+        "year_dohod": 0.3116249348818447
+    },
+    {
+        "future_name": "LKOH-3.25 (79201\u0440)",
+        "future2_name": "LKOH-6.24 (72129\u0440)",
+        "spred_futures": 9.80465554769927,
+        "year_dohod": 13.108788552784738
+    },
+    {
+        "future_name": "LKOH-3.25 (79201\u0440)",
+        "future2_name": "LKOH-9.24 (74653\u0440)",
+        "spred_futures": 6.0921865162820055,
+        "year_dohod": 12.217846584851273
+    },
+    {
+        "future_name": "LKOH-9.24 (74653\u0440)",
+        "future2_name": "LKOH-6.24 (72129\u0440)",
+        "spred_futures": 3.4992860014695815,
+        "year_dohod": 14.035597698202167
+    },
+    {
+        "future_name": "MAGN-9.24 (58263\u0440)",
+        "future2_name": "MAGN-6.24 (56383\u0440)",
+        "spred_futures": 3.334338364400624,
+        "year_dohod": 13.373994538529976
+    },
+    {
+        "future_name": "MGNT-12.24 (8099\u0440)",
+        "future2_name": "MGNT-6.24 (7461\u0440)",
+        "spred_futures": 8.551132555957652,
+        "year_dohod": 17.14924935672826
+    },
+    {
+        "future_name": "MGNT-12.24 (8099\u0440)",
+        "future2_name": "MGNT-9.24 (7601\u0440)",
+        "spred_futures": 6.551769504012639,
+        "year_dohod": 26.27907548312762
+    },
+    {
+        "future_name": "MGNT-9.24 (7601\u0440)",
+        "future2_name": "MGNT-6.24 (7461\u0440)",
+        "spred_futures": 1.8764240718402325,
+        "year_dohod": 7.526316332106427
+    },
+    {
+        "future_name": "MOEX-9.24 (21399\u0440)",
+        "future2_name": "MOEX-6.24 (21094\u0440)",
+        "spred_futures": 1.4459087892291667,
+        "year_dohod": 5.799524264490613
+    },
+    {
+        "future_name": "MTLR-9.24 (29745\u0440)",
+        "future2_name": "MTLR-6.24 (29030\u0440)",
+        "spred_futures": 2.4629693420599397,
+        "year_dohod": 9.878942965405251
+    },
+    {
+        "future_name": "MTSI-12.24 (31251\u0440)",
+        "future2_name": "MTSI-6.24 (30166\u0440)",
+        "spred_futures": 3.5967645693827377,
+        "year_dohod": 7.213291581454391
+    },
+    {
+        "future_name": "MTSI-12.24 (31251\u0440)",
+        "future2_name": "MTSI-9.24 (28781\u0440)",
+        "spred_futures": 8.582050658420481,
+        "year_dohod": 34.42251088267556
+    },
+    {
+        "future_name": "MTSI-9.24 (28781\u0440)",
+        "future2_name": "MTSI-6.24 (30166\u0440)",
+        "spred_futures": -4.591261685341108,
+        "year_dohod": -18.41550016647807
+    },
+    {
+        "future_name": "MVID-3.25 (2350\u0440)",
+        "future2_name": "MVID-12.24 (2269\u0440)",
+        "spred_futures": 3.569854561480823,
+        "year_dohod": 14.318647416928576
+    },
+    {
+        "future_name": "MVID-12.24 (2269\u0440)",
+        "future2_name": "MVID-6.24 (2088\u0440)",
+        "spred_futures": 8.668582375478916,
+        "year_dohod": 17.384794324449476
+    },
+    {
+        "future_name": "MVID-12.24 (2269\u0440)",
+        "future2_name": "MVID-9.24 (2110\u0440)",
+        "spred_futures": 7.535545023696688,
+        "year_dohod": 30.224988281860345
+    },
+    {
+        "future_name": "MVID-3.25 (2350\u0440)",
+        "future2_name": "MVID-6.24 (2088\u0440)",
+        "spred_futures": 12.54789272030652,
+        "year_dohod": 16.77648660407282
+    },
+    {
+        "future_name": "MVID-3.25 (2350\u0440)",
+        "future2_name": "MVID-9.24 (2110\u0440)",
+        "spred_futures": 11.374407582938396,
+        "year_dohod": 22.811311910837993
+    },
+    {
+        "future_name": "MVID-9.24 (2110\u0440)",
+        "future2_name": "MVID-6.24 (2088\u0440)",
+        "spred_futures": 1.0536398467432928,
+        "year_dohod": 4.226137846827493
+    },
+    {
+        "future_name": "NLMK-12.24 (23098\u0440)",
+        "future2_name": "NLMK-6.24 (21970\u0440)",
+        "spred_futures": 5.134274010013651,
+        "year_dohod": 10.296758316785619
+    },
+    {
+        "future_name": "NLMK-12.24 (23098\u0440)",
+        "future2_name": "NLMK-9.24 (21998\u0440)",
+        "spred_futures": 5.000454586780623,
+        "year_dohod": 20.056768397526675
+    },
+    {
+        "future_name": "NLMK-9.24 (21998\u0440)",
+        "future2_name": "NLMK-6.24 (21970\u0440)",
+        "spred_futures": 0.12744651797906847,
+        "year_dohod": 0.511186583102857
+    },
+    {
+        "future_name": "NOTK-9.24 (141830\u0440)",
+        "future2_name": "NOTK-6.24 (136998\u0440)",
+        "spred_futures": 3.5270587891794047,
+        "year_dohod": 14.1469940445108
+    },
+    {
+        "future_name": "PHOR-9.24 (7221\u0440)",
+        "future2_name": "PHOR-6.24 (6897\u0440)",
+        "spred_futures": 4.69769464984775,
+        "year_dohod": 18.842401617521197
+    },
+    {
+        "future_name": "PIKK-9.24 (8749\u0440)",
+        "future2_name": "PIKK-6.24 (8487\u0440)",
+        "spred_futures": 3.0870743490043706,
+        "year_dohod": 12.382221289962585
+    },
+    {
+        "future_name": "PLZL-9.24 (123119\u0440)",
+        "future2_name": "PLZL-6.24 (119319\u0440)",
+        "spred_futures": 3.1847400665443004,
+        "year_dohod": 12.773957409765602
+    },
+    {
+        "future_name": "POLY-9.24 (3588\u0440)",
+        "future2_name": "POLY-6.24 (3337\u0440)",
+        "spred_futures": 7.521726101288584,
+        "year_dohod": 30.169560735937726
+    },
+    {
+        "future_name": "POSI-9.24 (2876\u0440)",
+        "future2_name": "POSI-6.24 (2709\u0440)",
+        "spred_futures": 6.164636397194534,
+        "year_dohod": 24.726288845890164
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "future2_name": "ROSN-12.24 (62109\u0440)",
+        "spred_futures": 8.035872417846047,
+        "year_dohod": 8.057948990422547
+    },
+    {
+        "future_name": "ROSN-3.25 (62322\u0440)",
+        "future2_name": "ROSN-12.24 (62109\u0440)",
+        "spred_futures": 0.3429454668405496,
+        "year_dohod": 1.3755504988659406
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-12.24 (62109\u0440)",
+        "spred_futures": 5.166723019208175,
+        "year_dohod": 4.144733850573591
+    },
+    {
+        "future_name": "ROSN-12.24 (62109\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 7.101101895121653,
+        "year_dohod": 14.241220833623096
+    },
+    {
+        "future_name": "ROSN-6.25 (61477\u0440)",
+        "future2_name": "ROSN-12.24 (62109\u0440)",
+        "spred_futures": -1.017565892221739,
+        "year_dohod": -2.040722805829312
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-12.24 (62109\u0440)",
+        "spred_futures": 11.111111111111116,
+        "year_dohod": 7.427757427757431
+    },
+    {
+        "future_name": "ROSN-12.24 (62109\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 6.718328493616732,
+        "year_dohod": 26.94714176011107
+    },
+    {
+        "future_name": "ROSN-9.25 (66010\u0440)",
+        "future2_name": "ROSN-12.24 (62109\u0440)",
+        "spred_futures": 6.280893268286403,
+        "year_dohod": 8.39753129276387
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "future2_name": "ROSN-3.25 (62322\u0440)",
+        "spred_futures": 7.66663457527037,
+        "year_dohod": 10.250262344225954
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-12.25 (67100\u0440)",
+        "spred_futures": -2.6557377049180375,
+        "year_dohod": -10.652134750495426
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 15.707609801520928,
+        "year_dohod": 10.50050838380062
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "future2_name": "ROSN-6.25 (61477\u0440)",
+        "spred_futures": 9.14651007693934,
+        "year_dohod": 18.34327570375197
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-12.25 (67100\u0440)",
+        "spred_futures": 2.8464977645305423,
+        "year_dohod": 5.7086356266683955
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 15.294077217821611,
+        "year_dohod": 12.268875130779973
+    },
+    {
+        "future_name": "ROSN-12.25 (67100\u0440)",
+        "future2_name": "ROSN-9.25 (66010\u0440)",
+        "spred_futures": 1.6512649598545703,
+        "year_dohod": 6.623205608207892
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-3.25 (62322\u0440)",
+        "spred_futures": 4.807291165238592,
+        "year_dohod": 4.820498009099137
+    },
+    {
+        "future_name": "ROSN-3.25 (62322\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 7.468400269007258,
+        "year_dohod": 9.985223802885162
+    },
+    {
+        "future_name": "ROSN-6.25 (61477\u0440)",
+        "future2_name": "ROSN-3.25 (62322\u0440)",
+        "spred_futures": -1.3558614935335833,
+        "year_dohod": -5.438345550986351
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-3.25 (62322\u0440)",
+        "spred_futures": 10.731362921600729,
+        "year_dohod": 8.60867575029509
+    },
+    {
+        "future_name": "ROSN-3.25 (62322\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 7.084314163473593,
+        "year_dohod": 14.207553130043195
+    },
+    {
+        "future_name": "ROSN-9.25 (66010\u0440)",
+        "future2_name": "ROSN-3.25 (62322\u0440)",
+        "spred_futures": 5.91765347710278,
+        "year_dohod": 11.86782153375008
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 12.634719180562492,
+        "year_dohod": 7.23967425573832
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-6.25 (61477\u0440)",
+        "spred_futures": 6.2478650552239,
+        "year_dohod": 8.353372692881772
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-3.26 (65318\u0440)",
+        "spred_futures": 5.652346979393119,
+        "year_dohod": 22.67150162064273
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 12.23216893761061,
+        "year_dohod": 8.17718253155288
+    },
+    {
+        "future_name": "ROSN-3.26 (65318\u0440)",
+        "future2_name": "ROSN-9.25 (66010\u0440)",
+        "spred_futures": -1.048326011210421,
+        "year_dohod": -2.1024120554494705
+    },
+    {
+        "future_name": "ROSN-6.25 (61477\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 6.011277612043253,
+        "year_dohod": 6.027792110977439
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 19.001224327912958,
+        "year_dohod": 9.52671274682449
+    },
+    {
+        "future_name": "ROSN-9.24 (58199\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 0.35867634632960055,
+        "year_dohod": 1.4386468836297166
+    },
+    {
+        "future_name": "ROSN-9.25 (66010\u0440)",
+        "future2_name": "ROSN-6.24 (57991\u0440)",
+        "spred_futures": 13.828007794312903,
+        "year_dohod": 11.09279746137189
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-6.25 (61477\u0440)",
+        "spred_futures": 12.253363046342525,
+        "year_dohod": 12.287026131634676
+    },
+    {
+        "future_name": "ROSN-6.25 (61477\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 5.632399182116532,
+        "year_dohod": 7.530497074990968
+    },
+    {
+        "future_name": "ROSN-9.25 (66010\u0440)",
+        "future2_name": "ROSN-6.25 (61477\u0440)",
+        "spred_futures": 7.373489272410816,
+        "year_dohod": 29.574984444285143
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 18.575920548463042,
+        "year_dohod": 10.643973312698604
+    },
+    {
+        "future_name": "ROSN-6.26 (69010\u0440)",
+        "future2_name": "ROSN-9.25 (66010\u0440)",
+        "spred_futures": 4.5447659445538635,
+        "year_dohod": 6.076335420374213
+    },
+    {
+        "future_name": "ROSN-9.25 (66010\u0440)",
+        "future2_name": "ROSN-9.24 (58199\u0440)",
+        "spred_futures": 13.421192804000071,
+        "year_dohod": 13.45806421280227
+    },
+    {
+        "future_name": "RTKM-9.24 (9430\u0440)",
+        "future2_name": "RTKM-6.24 (9441\u0440)",
+        "spred_futures": -0.11651308124139836,
+        "year_dohod": -0.46733268849571874
+    },
+    {
+        "future_name": "RUAL-9.24 (3692\u0440)",
+        "future2_name": "RUAL-6.24 (3548\u0440)",
+        "spred_futures": 4.0586245772266105,
+        "year_dohod": 16.279098578985856
+    },
+    {
+        "future_name": "SBPR-9.24 (29510\u0440)",
+        "future2_name": "SBPR-6.24 (30733\u0440)",
+        "spred_futures": -3.979435785637586,
+        "year_dohod": -15.96147320612878
+    },
+    {
+        "future_name": "SBRF-3.25 (32672\u0440)",
+        "future2_name": "SBRF-12.24 (31028\u0440)",
+        "spred_futures": 5.298440118602543,
+        "year_dohod": 21.251985091098113
+    },
+    {
+        "future_name": "SBRF-12.24 (31028\u0440)",
+        "future2_name": "SBRF-6.24 (30811\u0440)",
+        "spred_futures": 0.7042939210022414,
+        "year_dohod": 1.4124575888231765
+    },
+    {
+        "future_name": "SBRF-12.24 (31028\u0440)",
+        "future2_name": "SBRF-9.24 (29502\u0440)",
+        "spred_futures": 5.172530675886389,
+        "year_dohod": 20.74696369998387
+    },
+    {
+        "future_name": "SBRF-3.25 (32672\u0440)",
+        "future2_name": "SBRF-6.24 (30811\u0440)",
+        "spred_futures": 6.040050631268046,
+        "year_dohod": 8.07552556927779
+    },
+    {
+        "future_name": "SBRF-3.25 (32672\u0440)",
+        "future2_name": "SBRF-9.24 (29502\u0440)",
+        "spred_futures": 10.745034234967111,
+        "year_dohod": 21.5491071195769
+    },
+    {
+        "future_name": "SBRF-9.24 (29502\u0440)",
+        "future2_name": "SBRF-6.24 (30811\u0440)",
+        "spred_futures": -4.248482684755439,
+        "year_dohod": -17.040617361931158
+    },
+    {
+        "future_name": "SGZH-3.25 (4464\u0440)",
+        "future2_name": "SGZH-12.24 (3881\u0440)",
+        "spred_futures": 15.021901571759866,
+        "year_dohod": 60.25268212848737
+    },
+    {
+        "future_name": "SGZH-12.24 (3881\u0440)",
+        "future2_name": "SGZH-6.24 (3826\u0440)",
+        "spred_futures": 1.4375326711970837,
+        "year_dohod": 2.882963873554591
+    },
+    {
+        "future_name": "SGZH-12.24 (3881\u0440)",
+        "future2_name": "SGZH-9.24 (3868\u0440)",
+        "spred_futures": 0.33609100310236784,
+        "year_dohod": 1.348057320135871
+    },
+    {
+        "future_name": "SGZH-3.25 (4464\u0440)",
+        "future2_name": "SGZH-6.24 (3826\u0440)",
+        "spred_futures": 16.67537898588605,
+        "year_dohod": 22.29492062215534
+    },
+    {
+        "future_name": "SGZH-3.25 (4464\u0440)",
+        "future2_name": "SGZH-9.24 (3868\u0440)",
+        "spred_futures": 15.408479834539811,
+        "year_dohod": 30.90162164619248
+    },
+    {
+        "future_name": "SGZH-9.24 (3868\u0440)",
+        "future2_name": "SGZH-6.24 (3826\u0440)",
+        "spred_futures": 1.0977522216413904,
+        "year_dohod": 4.40307209779239
+    },
+    {
+        "future_name": "SIBN-9.24 (8059\u0440)",
+        "future2_name": "SIBN-6.24 (7724\u0440)",
+        "spred_futures": 4.337131020196794,
+        "year_dohod": 17.3961848612289
+    },
+    {
+        "future_name": "SMLT-9.24 (3807\u0440)",
+        "future2_name": "SMLT-6.24 (3649\u0440)",
+        "spred_futures": 4.329953411893661,
+        "year_dohod": 17.36739555319985
+    },
+    {
+        "future_name": "SNGP-9.24 (58699\u0440)",
+        "future2_name": "SNGP-6.24 (63771\u0440)",
+        "spred_futures": -7.953458468582896,
+        "year_dohod": -31.901234516843488
+    },
+    {
+        "future_name": "SNGR-9.24 (30500\u0440)",
+        "future2_name": "SNGR-6.24 (29853\u0440)",
+        "spred_futures": 2.1672863698790845,
+        "year_dohod": 8.692961813251273
+    },
+    {
+        "future_name": "SOFL-9.24 (1786\u0440)",
+        "future2_name": "SOFL-6.24 (1652\u0440)",
+        "spred_futures": 8.111380145278456,
+        "year_dohod": 32.53465662666633
+    },
+    {
+        "future_name": "SPBE-9.24 (964\u0440)",
+        "future2_name": "SPBE-6.24 (830\u0440)",
+        "spred_futures": 16.14457831325302,
+        "year_dohod": 64.75572620150936
+    },
+    {
+        "future_name": "SVCB-9.24 (2070\u0440)",
+        "future2_name": "SVCB-6.24 (1964\u0440)",
+        "spred_futures": 5.397148676171071,
+        "year_dohod": 21.647904030796052
+    },
+    {
+        "future_name": "TATN-12.24 (78000\u0440)",
+        "future2_name": "TATN-6.24 (72729\u0440)",
+        "spred_futures": 7.247452872994264,
+        "year_dohod": 14.534726915620364
+    },
+    {
+        "future_name": "TATN-12.24 (78000\u0440)",
+        "future2_name": "TATN-9.24 (73887\u0440)",
+        "spred_futures": 5.566608469690193,
+        "year_dohod": 22.32760540040572
+    },
+    {
+        "future_name": "TATN-9.24 (73887\u0440)",
+        "future2_name": "TATN-6.24 (72729\u0440)",
+        "spred_futures": 1.5922121849606174,
+        "year_dohod": 6.386345577039839
+    },
+    {
+        "future_name": "TCSI-9.24 (33657\u0440)",
+        "future2_name": "TCSI-6.24 (31904\u0440)",
+        "spred_futures": 5.49460882647943,
+        "year_dohod": 22.03881562269222
+    },
+    {
+        "future_name": "TRNF-9.24 (1646\u0440)",
+        "future2_name": "TRNF-6.24 (1689\u0440)",
+        "spred_futures": -2.545885139135584,
+        "year_dohod": -10.211517316313056
+    },
+    {
+        "future_name": "VKCO-3.25 (7119\u0440)",
+        "future2_name": "VKCO-12.24 (7509\u0440)",
+        "spred_futures": -5.193767479025169,
+        "year_dohod": -20.83214428400205
+    },
+    {
+        "future_name": "VKCO-12.24 (7509\u0440)",
+        "future2_name": "VKCO-6.24 (6424\u0440)",
+        "spred_futures": 16.88978829389789,
+        "year_dohod": 33.872377622377634
+    },
+    {
+        "future_name": "VKCO-12.24 (7509\u0440)",
+        "future2_name": "VKCO-9.24 (6688\u0440)",
+        "spred_futures": 12.275717703349276,
+        "year_dohod": 49.237768810137204
+    },
+    {
+        "future_name": "VKCO-3.25 (7119\u0440)",
+        "future2_name": "VKCO-6.24 (6424\u0440)",
+        "spred_futures": 10.818804483188039,
+        "year_dohod": 14.464701964701957
+    },
+    {
+        "future_name": "VKCO-3.25 (7119\u0440)",
+        "future2_name": "VKCO-9.24 (6688\u0440)",
+        "spred_futures": 6.4443779904306275,
+        "year_dohod": 12.924164651138346
+    },
+    {
+        "future_name": "VKCO-9.24 (6688\u0440)",
+        "future2_name": "VKCO-6.24 (6424\u0440)",
+        "spred_futures": 4.109589041095885,
+        "year_dohod": 16.48351648351646
+    },
+    {
+        "future_name": "VTBR-9.24 (2434\u0440)",
+        "future2_name": "VTBR-6.24 (2337\u0440)",
+        "spred_futures": 4.150620453572951,
+        "year_dohod": 16.648093028067333
+    },
+    {
+        "future_name": "WUSH-3.25 (3777\u0440)",
+        "future2_name": "WUSH-12.24 (3492\u0440)",
+        "spred_futures": 8.161512027491401,
+        "year_dohod": 32.73573505532266
+    },
+    {
+        "future_name": "WUSH-12.24 (3492\u0440)",
+        "future2_name": "WUSH-6.24 (3227\u0440)",
+        "spred_futures": 8.21196157421753,
+        "year_dohod": 16.469043816425266
+    },
+    {
+        "future_name": "WUSH-12.24 (3492\u0440)",
+        "future2_name": "WUSH-9.24 (3290\u0440)",
+        "spred_futures": 6.139817629179323,
+        "year_dohod": 24.626741040114865
+    },
+    {
+        "future_name": "WUSH-3.25 (3777\u0440)",
+        "future2_name": "WUSH-6.24 (3227\u0440)",
+        "spred_futures": 17.04369383328168,
+        "year_dohod": 22.787356223984663
+    },
+    {
+        "future_name": "WUSH-3.25 (3777\u0440)",
+        "future2_name": "WUSH-9.24 (3290\u0440)",
+        "spred_futures": 14.802431610942257,
+        "year_dohod": 29.686195263702878
+    },
+    {
+        "future_name": "WUSH-9.24 (3290\u0440)",
+        "future2_name": "WUSH-6.24 (3227\u0440)",
+        "spred_futures": 1.952277657266821,
+        "year_dohod": 7.83056422969659
+    }
+]
