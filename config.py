@@ -24,7 +24,7 @@ import logging
 import datetime
 import json
 
-bot_config_path = 'mosbirja/config_bot.json'
+bot_config_path = 'config_bot.json'
 
 
 with open(bot_config_path, 'r+') as file:
