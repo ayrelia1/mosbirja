@@ -30,7 +30,7 @@ class mosbirja_parser:
         futures_stock = await mosbirja_parser.check_futures_stock(futures)
         
         
-        with open("mosbirja/data_futures_assets.json", "w") as json_file:
+        with open("data_futures_assets.json", "w") as json_file:
             json.dump(futures_stock, json_file, indent=4)
         await get_html_page(typee='futures_assets')
         
@@ -39,7 +39,7 @@ class mosbirja_parser:
 
         
 
-        with open("mosbirja/data_futures_futures.json", "w") as json_file:
+        with open("data_futures_futures.json", "w") as json_file:
             json.dump(futures_futures, json_file, indent=4)
         await get_html_page(typee='futures_futures')
             
