@@ -32,9 +32,9 @@ class databasework:
         connection = connect()
         user = await databasework.check_user(user_id) # берем юзера
         
-        if user[7] == 'off': # если включен то выключаем
+        if user[5] == 'off': # если включен то выключаем
             par = 'on'
-        elif user[7] == 'on': # если выключен то включаем
+        elif user[5] == 'on': # если выключен то включаем
             par = 'off'
         
         with connection.cursor() as cursor:
