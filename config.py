@@ -23,11 +23,16 @@ from aiogram.filters import Filter
 import logging
 import datetime
 import json
+from dotenv import load_dotenv
+import os
 
-bot_config_path = 'config_bot.json'
 
 
-with open(bot_config_path, 'r+') as file:
+load_dotenv()
+
+current_folder = os.path.dirname(os.path.abspath(__file__))
+
+with open(f'{current_folder}/config_bot.json', 'r+') as file:
     file_config = json.load(file)
      
 
@@ -35,7 +40,7 @@ with open(bot_config_path, 'r+') as file:
 
 
 dp = Dispatcher(storage=MemoryStorage())
-bot = Bot(file_config['bot_token'], parse_mode="html")
+bot = Bot(os.getenv("BOT_TOKEN"), parse_mode="html")
 
 
 
