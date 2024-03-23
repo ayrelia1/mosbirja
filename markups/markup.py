@@ -19,7 +19,7 @@ async def start_markup(user_id): # async чтоб запрос к бд сдел�
     markup = (
         InlineKeyboardBuilder()
         .button(text=f'{text_assets[user[4]]}', callback_data='enable_disable_sub_assets') # ставим из бд выключено или включено ⚙️
-        .button(text=f'{text_futures[user[7]]}', callback_data='enable_disable_sub_futures') # ставим из бд выключено или включено ⚙️
+        .button(text=f'{text_futures[user[5]]}', callback_data='enable_disable_sub_futures') # ставим из бд выключено или включено ⚙️
         .button(text='⚙️ Фьючерсы/Акции', callback_data='get_report_futures_assets')
         .button(text='⚙️ Фьючерсы/Фьючерсы', callback_data='get_report_futures_futures')
         .adjust(2, 2, repeat=True)
