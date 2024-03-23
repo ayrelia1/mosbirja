@@ -99,6 +99,24 @@ class databasework:
         connection.close()
         return result
     
+    async def get_all_status_user(): # получаем всех юзеров со статусом юзер
+        connection = connect()
+        with connection.cursor() as cursor:
+            sql = "SELECT * FROM users WHERE status = 'user'"
+            cursor.execute(sql)
+            result = cursor.fetchall()
+        connection.close()
+        return result
+    
+    async def get_count_users(): # получаем всех юзеров
+        connection = connect()
+        with connection.cursor() as cursor:
+            sql = "SELECT COUNT(*) FROM users"
+            cursor.execute(sql)
+            result = cursor.fetchall()
+        connection.close()
+        return result[0][0]
+    
     async def get_all_user_with_sub_assets(): # получаем всех юзеров с подпиской на фьючерсы/акции
         connection = connect()
         with connection.cursor() as cursor:
