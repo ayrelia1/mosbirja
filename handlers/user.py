@@ -55,7 +55,7 @@ async def future_assets(callback: types.CallbackQuery):
     #typee='futures_assets'
     #file = await get_html_page(typee)
     
-    document = FSInputFile('mosbirja/assets/output_futures_assets.html', filename='report.html')
+    document = FSInputFile('assets/output_futures_assets.html', filename='report.html')
 
     await bot.send_document(chat_id=callback.message.chat.id, caption='⚙️ Отчет фьючерсы/акции', document=document)
 
@@ -66,7 +66,7 @@ async def futures_futures(callback: types.CallbackQuery):
     #typee='futures_futures'
     #file = await get_html_page(typee)
     
-    document = FSInputFile('mosbirja/assets/output_futures_futures.html', filename='report.html')
+    document = FSInputFile('assets/output_futures_futures.html', filename='report.html')
 
     await bot.send_document(chat_id=callback.message.chat.id, caption='⚙️ Отчет фьючерсы/фьючерсы', document=document)
 user = router
