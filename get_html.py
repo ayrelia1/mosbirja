@@ -96,12 +96,12 @@ async def get_html_page(typee):
     if typee == 'futures_assets':
         with open('assets/data_futures_assets.json', 'r') as file:
             data = json.load(file)
-            filename='output_futures_assets.html'
+            filename='assets/output_futures_assets.html'
         
     elif typee == 'futures_futures':
         with open('assets/data_futures_futures.json', 'r') as file:
             data = json.load(file)
-            filename='output_futures_futures.html'
+            filename='assets/output_futures_futures.html'
             
             
     # Создание объекта BeautifulSoup
